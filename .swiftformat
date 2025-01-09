@@ -1,0 +1,4 @@
+--self init-only
+--redundanttype inferred
+--commas inline
+--stripunusedargs closure-only
